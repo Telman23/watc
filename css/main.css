@@ -1,0 +1,8 @@
+.header_content {
+    display: flex;
+}
+
+.offer {
+    padding-top: 104px;
+    max-width: 600;
+}
